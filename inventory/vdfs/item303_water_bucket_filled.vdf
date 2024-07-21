@@ -14,7 +14,8 @@
 			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item303_large.png",
 			"tradable": true,
 			"marketable": false,
-			"tags": "filled_with:water;type:utility"
+			"tags": "filled_with:water;type:utility",
+			"exchange:"301,501"
 		}
 	]
 }

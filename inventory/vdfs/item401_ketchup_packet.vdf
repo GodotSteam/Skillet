@@ -12,7 +12,8 @@
 			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item401.png",
 			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item401_large.png",
 			"tags": "paint_color:red;type:coloring",
-			"tags_to_remove_on_tool_use": "paint_color"
+			"tags_to_remove_on_tool_use": "paint_color",
+			"auto_stack": true
 		}
 	]
 }
