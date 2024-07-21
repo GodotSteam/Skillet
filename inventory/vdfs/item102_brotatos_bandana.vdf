@@ -1,0 +1,19 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"itemdefid": 102,
+			"type": "item",
+			"name": "Smiley's Mask",
+			"description": "A one-pixel thick mask with a very familiar face on it.",
+			"display_type": "Cosmetic",
+			"background_color":  "decca2",
+			"name_color":  "000000",
+			"allowed_tags_from_tools": "paint_color",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item102.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item102_large.png",
+			"promo": "owns:1942280",
+			"tags": "type:cosmetic"
+		}
+	]
+}

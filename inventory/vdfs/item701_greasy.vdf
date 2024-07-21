@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Greasy Skin",
+			"description": "A block of some gummy and flammable material.",
+			"display_type": "Skin",
+			"itemdefid": 701,
+			"type": "item",
+			"background_color":  "A2B4DE",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item701.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item701_large.png",
+			"tradable": true,
+			"marketable": false,
+			"tags": "type:skin",
+			"granted_manually": true
+		}
+	]
+}

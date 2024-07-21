@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Water Bucket",
+			"description": "A lovely, handcrafted wooden bucket filled with Yummy Water (tm).",
+			"display_type": "Utility",
+			"itemdefid": 303,
+			"type": "item",
+			"background_color":  "f2e1bd",
+			"name_color":  "000000",
+			"item_slot": "decoration",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item303.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item303_large.png",
+			"tradable": true,
+			"marketable": false,
+			"tags": "filled_with:water;type:utility"
+		}
+	]
+}

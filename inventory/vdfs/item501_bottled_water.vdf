@@ -1,0 +1,25 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Bottled Water",
+			"description": "Room tempurature but great for filling buckets.",
+			"display_type": "Consumable",
+			"itemdefid": 501,
+			"type": "item",
+			"bundle": "",
+			"promo": "played:570/15",
+			"background_color": "BDCEF2",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item501.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item501_large.png",
+			"marketable": false,
+			"tradable": true,
+			"drop_interval": 30,
+			"use_drop_window": true,
+			"drop_window": 1440,
+			"drop_max_per_window": 3,
+			"tags": "type:consumable;liquid:water"
+		}
+	]
+}

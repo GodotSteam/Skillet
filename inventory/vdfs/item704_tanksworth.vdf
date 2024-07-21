@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Tanksworth Skin",
+			"description": "A tank full of very chill friends.",
+			"display_type": "Skin",
+			"itemdefid": 704,
+			"type": "item",
+			"background_color":  "A2B4DE",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item704.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item704_large.png",
+			"tradable": true,
+			"marketable": false,
+			"promo": "owns:2276930",
+			"tags": "type:skin"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Team Sponge Skin",
+			"description": "You are on the team! Team Sponge!",
+			"display_type": "Skin",
+			"itemdefid": 705,
+			"type": "item",
+			"background_color":  "A2B4DE",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item705.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item705_large.png",
+			"tradable": true,
+			"marketable": false,
+			"tags": "type:skin",
+			"granted_manually": true
+		}
+	]
+}

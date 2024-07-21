@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Water Bucket",
+			"description": "A lovely, handcrafted wooden bucket. Just a little empty.",
+			"display_type": "Utility",
+			"itemdefid": 301,
+			"type": "item",
+			"background_color":  "f2e1bd",
+			"name_color":  "000000",
+			"item_slot": "decoration",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item301.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item301_large.png",
+			"tradable": true,
+			"marketable": false,
+			"tags": "type:utility"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"itemdefid": 402,
+			"type": "tag_tool",
+			"name": "Bit O' Bleach",
+			"description": "Smells fresh and strips the color out of things.",
+			"display_type": "Consumable",
+			"background_color": "c8c098",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item402.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item402_large.png",
+			"tags": "paint_color:red;type:coloring",
+			"tags_to_remove_on_tool_use": "paint_color"
+		}
+	]
+}
+

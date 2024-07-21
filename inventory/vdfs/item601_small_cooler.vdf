@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Small Cooler",
+			"description": "Usually has drinks but it probably does not.",
+			"display_type": "container",
+			"itemdefid": 601,
+			"type": "generator",
+			"bundle:" "402x2; 501x2; 401x2",
+			"background_color":  "98A0C8",
+			"name_color":  "000000",
+			"item_slot": "decoration",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item601.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item601_large.png",
+			"tradable": true,
+			"tags": "type:consumable"
+		}
+	]
+}

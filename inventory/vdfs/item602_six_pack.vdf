@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Six-Pack",
+			"description": "Currently unsealed but probably still water.",
+			"display_type": "container",
+			"itemdefid": 602,
+			"type": "generator",
+			"bundle:" "402x2; 501x2;",
+			"background_color":  "98A0C8",
+			"name_color":  "000000",
+			"item_slot": "decoration",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item602.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item602_large.png",
+			"tradable": true,
+			"tags": "type:consumable"
+		}
+	]
+}

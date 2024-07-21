@@ -1,0 +1,19 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"itemdefid": 405,
+			"type": "tag_tool",
+			"name": "Chocolate Chip",
+			"description": "Smear it all over your possessions to turn them brown.",
+			"display_type": "Consumable",
+			"background_color": "c8c098",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item405.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item405_large.png",
+			"tags": "paint_color:brown;type:coloring",
+			"tags_to_remove_on_tool_use": "paint_color"
+		}
+	]
+}
+

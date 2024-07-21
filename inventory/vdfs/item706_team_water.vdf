@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Team Water Skin",
+			"description": "Looks like someone played on Team Water.",
+			"display_type": "Skin",
+			"itemdefid": 706,
+			"type": "item",
+			"background_color":  "A2B4DE",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item706.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item706_large.png",
+			"tradable": true,
+			"marketable": false,
+			"tags": "type:skin",
+			"granted_manually": true
+		}
+	]
+}

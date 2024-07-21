@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Josef's Hat",
+			"description": "The perfect hat when you want to look dapper.",
+			"display_type": "Cosmetic",
+			"itemdefid": 101,
+			"type": "item",
+			"background_color":  "decca2",
+			"name_color":  "000000",
+			"allowed_tags_from_tools": "paint_color",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item101.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item101_large.png",
+			"tradable": true,
+			"marketable": false,
+			"tags": "type:cosmetic"
+		}
+	]
+}

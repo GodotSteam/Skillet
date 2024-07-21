@@ -1,0 +1,19 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"itemdefid": 404,
+			"type": "tag_tool",
+			"name": "Lettuce",
+			"description": "Smear it all over your possessions to turn them green.",
+			"display_type": "Consumable",
+			"background_color": "c8c098",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item404.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item404_large.png",
+			"tags": "paint_color:green;type:coloring",
+			"tags_to_remove_on_tool_use": "paint_color"
+		}
+	]
+}
+

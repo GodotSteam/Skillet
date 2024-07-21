@@ -1,0 +1,22 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Tiny Notepad",
+			"description": "Handy for keeping track of things you need to remember.",
+			"display_type": "Utility",
+			"itemdefid": 302,
+			"type": "tag_tool",
+			"bundle": "",
+			"promo": "played:570/15",
+			"background_color":  "f2e1bd",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item302.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item302_large.png",
+			"marketable": false,
+			"tradable": true,
+			"tags": "stat_tracker:fire_saves",
+			"tags_to_remove_on_tool_use": "stat_tracker:fire_saves"
+		}
+	]
+}
