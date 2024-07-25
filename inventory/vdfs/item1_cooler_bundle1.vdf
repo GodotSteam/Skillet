@@ -1,0 +1,8 @@
+{
+	"appid": 3013040,
+	"name": "Hydro Bundle",
+	"description": "Enough to fill a sink.",
+	"itemdefid": 1,
+	"type": "bundle",
+	"bundle": "501x3"
+}

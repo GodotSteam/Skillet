@@ -1,0 +1,8 @@
+{
+	"appid": 3013040,
+	"name": "Whitening Kit",
+	"description": "Just a little bit of bleach.",
+	"itemdefid": 2,
+	"type": "bundle",
+	"bundle": "501x2;402x1"
+}

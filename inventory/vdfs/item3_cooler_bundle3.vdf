@@ -1,0 +1,12 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+		"name": "Leftovers",
+		"description": "A few bits and pieces.",
+		"itemdefid": 3,
+		"type": "generator",
+		"bundle": "501x2;408x1;407x1;406x1;405x1;404x1;403x1;402x1;401x1"
+		}
+	]
+}
