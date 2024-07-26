@@ -1,0 +1,20 @@
+"lang"
+{
+	"english"
+	{
+		"tokens"
+		{
+			"#at_boot"			"Heating up the Skillet"
+			"#at_menu"			"Oggling the main menu"
+			"#at_inventory"		"Raiding the inventory cupboards"
+			"#at_customize"		"Mixing up a gummy"
+			"#at_settings"		"Tweaking the burner settings"
+			"#at_leaderboard"	"Reading the ingredients leaderboard"
+			"#at_matches"		"Considering match types"
+			"#at_host"			"Hosting a cook-out"
+			"#at_join"			"Looking for a scramble"
+			"#at_lobby"			"Sizzling up in a lobby"
+			"#at_game"			"Trying to survive in %match_type%"
+		}
+	}
+}
