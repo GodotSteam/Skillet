@@ -3,6 +3,10 @@ The art asset branch for Skillet, GodotSteam's open-source game. This branch con
 
 ## Updates
 
+**Version 1.2**
+- Added: templates for faces and bodies
+- Added: new inventory items and icons
+
 **Version 1.1**
 - Added: achievement icons
 - Added: rich presence vdf
