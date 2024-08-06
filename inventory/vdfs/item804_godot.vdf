@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Godot",
+			"description": "How long have you been waiting for this face?",
+			"display_type": "Face",
+			"itemdefid": 804,
+			"type": "item",
+			"background_color":  "A2B4DE",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item804.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item804_large.png",
+			"tradable": true,
+			"marketable": false,
+			"tags": "type:face",
+			"granted_manually": true
+		}
+	]
+}

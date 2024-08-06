@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Josef",
+			"description": "As determined as ever to get that dictionary.",
+			"display_type": "Face",
+			"itemdefid": 802,
+			"type": "item",
+			"background_color":  "A2B4DE",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item802.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item802_large.png",
+			"tradable": true,
+			"marketable": false,
+			"tags": "type:face",
+			"granted_manually": true
+		}
+	]
+}

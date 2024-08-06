@@ -1,0 +1,20 @@
+ {
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Godot",
+			"description": "Very plush and squishy looking.",
+			"display_type": "Skin",
+			"itemdefid": 710,
+			"type": "item",
+			"background_color":  "A2B4DE",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item710.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item710_large.png",
+			"tradable": true,
+			"marketable": false,
+			"tags": "type:skin",
+			"granted_manually": true
+		}
+	]
+}

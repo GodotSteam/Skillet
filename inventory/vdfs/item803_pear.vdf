@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Pear",
+			"description": "A pixel-perfect smile.",
+			"display_type": "Face",
+			"itemdefid": 803,
+			"type": "item",
+			"background_color":  "A2B4DE",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item803.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item803_large.png",
+			"tradable": true,
+			"marketable": false,
+			"tags": "type:face",
+			"granted_manually": true
+		}
+	]
+}

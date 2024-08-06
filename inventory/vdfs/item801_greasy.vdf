@@ -1,0 +1,20 @@
+{
+	"appid": 3013040,
+	"items": [
+		{
+			"name": "Greasy",
+			"description": "The kind of face only a mother could love.",
+			"display_type": "Face",
+			"itemdefid": 801,
+			"type": "item",
+			"background_color":  "A2B4DE",
+			"name_color":  "000000",
+			"icon_url": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item801.png",
+			"icon_url_large": "https://raw.githubusercontent.com/GodotSteam/Skillet/assets/inventory/images/item801_large.png",
+			"tradable": true,
+			"marketable": false,
+			"tags": "type:face",
+			"granted_manually": true
+		}
+	]
+}
