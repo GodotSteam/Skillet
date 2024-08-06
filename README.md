@@ -1,37 +1,17 @@
 # Skillet Assets
-The art asset branch for Skillet, GodotSteam's open-source game. This branch contains images for Steam Inventory, Workshop, and user-submitted items for both.
+The art asset branch for Skillet, GodotSteam's open-source game. This branch contains images for Steam Inventory, Workshop, and user-submitted items for both.  [These images cannot be used in commercial projects; please check the License section for more information.](#License)
 
 ## Contents
 
-The following contents of the assets branch:
-
-### Achievements
-
-All achievement icons. 512 px.
-
-### Icons
-
-Skillet's main icon. Sizes 16 px to 512 px. In .ico, .icns, and .png formats.
-
-### Inventory
-
-Steam Inventory item images and VDF files needed for Steamworoks.
-
-### Steamworks
-
-Rich presence file for various states.
-
-### Store
-
-Steam store images for the main game, editor tools, and DLC.
-
-### Templates
-
-Templates for creating new skins and faces for Skillet.
-
-### UGC
-
-UGC / Workshop branding images and Workshop item images.
+| Folder       | Contents                                                                      |
+| ------------ | ----------------------------------------------------------------------------- |
+| Achievements | All achievement icons. 512 px.                                                |
+| Icons        | Skillet's main icon. Sizes 16 px to 512 px. In .ico, .icns, and .png formats. |
+| Inventory    | Steam Inventory item images and VDF files needed for Steamworoks.             |
+| Steamworks   | Rich presence file for various states.                                        |
+| Store        | Steam store images for the main game, editor tools, and DLC.                  |
+| Templates    | Templates for creating new skins and faces for Skillet.                       |
+| UGC          | UGC / Workshop branding images and Workshop item images.                      |
 
 ## Updates
 
