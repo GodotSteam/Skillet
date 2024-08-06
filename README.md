@@ -1,5 +1,5 @@
 # Skillet Assets
-The art asset branch for Skillet, GodotSteam's open-source game. This branch contains images for Steam Inventory, Workshop, and user-submitted items for both.  [These images cannot be used in commercial projects; please check the License section for more information.](#License)
+The art asset branch for Skillet, GodotSteam's open-source game. This branch contains images for Steam Inventory, Workshop, and user-submitted items for both.  [Most images cannot be used in commercial projects; please check the License section for more information.](#License)
 
 ## Contents
 
