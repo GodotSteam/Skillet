@@ -17,10 +17,8 @@ The art asset branch for Skillet, GodotSteam's open-source game. This branch con
 
 [You can read the full changelog on GodotSteam's website.](https://godotsteam.com/changelog/skillet_assets)
 
-**Version 1.4**
-- Added: new skins
-- Added: Workshop items - Kenney and Wesley Pipes
-- Updated: Steam store assets based on new Valve requirements
+**Version 1.4.1**
+- Added: VDF files from Skillet Workshop Editor
 
 ## Links
 While the main repo is not populated yet, [you will be able to find source code here.](https://github.com/GodotSteam/Skillet)

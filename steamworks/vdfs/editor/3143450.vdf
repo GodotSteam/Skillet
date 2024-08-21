@@ -1,0 +1,18 @@
+"AppBuild"
+{
+	"AppID" "3143450"
+	"Desc" "Skillet Workshop Editor"
+
+	"Preview" "0"
+	"Local" ""
+	"SetLive" ""
+	"ContentRoot" ""
+	"BuildOutput" "..\output"
+	"Depots"
+	{
+		"3143451" "..\scripts\3143451.vdf"
+		"3143452" "..\scripts\3143452.vdf"
+		"3143453" "..\scripts\3143453.vdf"
+		"3143454" "..\scripts\3143454.vdf"
+	}
+}
