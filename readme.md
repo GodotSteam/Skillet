@@ -2,7 +2,7 @@
 
 Designed to showcase the features of GodotSteam; packing in as many of the Steam classes as possible.  The game being shared as open-source will allow developers to see how things work in Steamworks and Godot with real-world examples. Users may copy and modify the code for their own needs and games.  Since it is meant to be educational, it will be designed in a somewhat simplified way to accommodate all levels.
 
-[You can find it here, though the store page is not quite live yet.](https://steamcommunity.com/app/3013040/Skillet/)  The game will be released in December.
+[You can find it here, though the store page is not quite live yet.](https://store.steampowered.com/app/3013040/Skillet/)  The game will be released in December.
 
 ---
 
