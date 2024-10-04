@@ -1,0 +1,25 @@
+[gd_resource type="SpriteFrames" load_steps=4 format=3 uid="uid://d0kmw2a7tcqxa"]
+
+[ext_resource type="Texture2D" uid="uid://cumgbvarsp0re" path="res://data/graphics/player/running.png" id="1_621bn"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_mjjmg"]
+atlas = ExtResource("1_621bn")
+region = Rect2(0, 0, 290, 200)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_6rs54"]
+atlas = ExtResource("1_621bn")
+region = Rect2(0, 200, 290, 200)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_mjjmg")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_6rs54")
+}],
+"loop": true,
+"name": &"Dash",
+"speed": 5.0
+}]

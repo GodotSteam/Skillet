@@ -1,0 +1,83 @@
+[gd_resource type="Theme" load_steps=7 format=3 uid="uid://7e7we1p2nf7w"]
+
+[ext_resource type="FontFile" uid="uid://dfyl6vhy6e6ke" path="res://data/fonts/Huncy.otf" id="1_bnboh"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_n4skb"]
+content_margin_left = 25.0
+content_margin_top = 15.0
+content_margin_right = 25.0
+content_margin_bottom = 5.0
+bg_color = Color(0.606807, 0.581835, 0.438837, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_m3ss7"]
+content_margin_left = 30.0
+content_margin_top = 0.0
+content_margin_right = 30.0
+content_margin_bottom = 0.0
+bg_color = Color(0.606807, 0.581835, 0.438837, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_kaweq"]
+bg_color = Color(0.784314, 0.752941, 0.596078, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_kmb4u"]
+bg_color = Color(0.870588, 0.8, 0.635294, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_rmto8"]
+content_margin_left = 15.0
+content_margin_right = 15.0
+bg_color = Color(0.497156, 0.474243, 0.343946, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+
+[resource]
+default_font = ExtResource("1_bnboh")
+default_font_size = 35
+RichTextLabel/colors/default_color = Color(0.152941, 0.152941, 0.152941, 1)
+RichTextLabel/colors/font_selected_color = Color(0, 0, 0, 0)
+RichTextLabel/colors/selection_color = Color(0.847059, 0.74902, 0.52549, 1)
+RichTextLabel/styles/normal = SubResource("StyleBoxFlat_n4skb")
+VScrollBar/styles/grabber = SubResource("StyleBoxFlat_m3ss7")
+VScrollBar/styles/grabber_highlight = SubResource("StyleBoxFlat_kaweq")
+VScrollBar/styles/grabber_pressed = SubResource("StyleBoxFlat_kmb4u")
+VScrollBar/styles/scroll = SubResource("StyleBoxFlat_rmto8")

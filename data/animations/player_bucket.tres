@@ -1,0 +1,82 @@
+[gd_resource type="SpriteFrames" load_steps=10 format=3 uid="uid://djepjou15rtxw"]
+
+[ext_resource type="Texture2D" uid="uid://byvnmkd8mwojm" path="res://data/graphics/player/bucket.png" id="1_lrvit"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_en1p6"]
+atlas = ExtResource("1_lrvit")
+region = Rect2(228, 116, 228, 116)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_e2pbu"]
+atlas = ExtResource("1_lrvit")
+region = Rect2(0, 116, 228, 116)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ccth8"]
+atlas = ExtResource("1_lrvit")
+region = Rect2(0, 0, 228, 116)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_uko4h"]
+atlas = ExtResource("1_lrvit")
+region = Rect2(228, 0, 228, 116)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nor1t"]
+atlas = ExtResource("1_lrvit")
+region = Rect2(684, 116, 228, 116)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tqik3"]
+atlas = ExtResource("1_lrvit")
+region = Rect2(456, 116, 228, 116)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_peyaf"]
+atlas = ExtResource("1_lrvit")
+region = Rect2(456, 0, 228, 116)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tgd01"]
+atlas = ExtResource("1_lrvit")
+region = Rect2(684, 0, 228, 116)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_en1p6")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_e2pbu")
+}],
+"loop": true,
+"name": &"Dash",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ccth8")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_uko4h")
+}],
+"loop": true,
+"name": &"Idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_nor1t")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_tqik3")
+}],
+"loop": true,
+"name": &"Knockback",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_peyaf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_tgd01")
+}],
+"loop": true,
+"name": &"Move",
+"speed": 5.0
+}]

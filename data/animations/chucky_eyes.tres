@@ -1,0 +1,76 @@
+[gd_resource type="SpriteFrames" load_steps=6 format=3 uid="uid://cnjgkjxk6anqs"]
+
+[ext_resource type="Texture2D" uid="uid://cn6o4uvjw3esy" path="res://data/graphics/characters/chucky_eyes.png" id="1_slx6x"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_v65v4"]
+atlas = ExtResource("1_slx6x")
+region = Rect2(3924, 0, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_p813s"]
+atlas = ExtResource("1_slx6x")
+region = Rect2(0, 856, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_0gqle"]
+atlas = ExtResource("1_slx6x")
+region = Rect2(0, 0, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tul7d"]
+atlas = ExtResource("1_slx6x")
+region = Rect2(1962, 0, 1962, 856)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_v65v4")
+}],
+"loop": true,
+"name": &"Burning",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_p813s")
+}],
+"loop": true,
+"name": &"Death",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0gqle")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_tul7d")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0gqle")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0gqle")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0gqle")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0gqle")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0gqle")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0gqle")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0gqle")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0gqle")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0gqle")
+}],
+"loop": true,
+"name": &"Idle",
+"speed": 5.0
+}]

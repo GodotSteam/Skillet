@@ -1,0 +1,37 @@
+[gd_resource type="Theme" load_steps=11 format=3 uid="uid://g2pknekn7dg"]
+
+[ext_resource type="FontFile" uid="uid://58hsfrljg1sh" path="res://data/fonts/Snoring.otf" id="1_rsofn"]
+[ext_resource type="Texture2D" uid="uid://dovlfm7ippesh" path="res://data/graphics/checkbox_checked.png" id="2_15ioj"]
+[ext_resource type="Texture2D" uid="uid://cml12gjg7ara6" path="res://data/graphics/checkbox_checked_disabled.png" id="3_0iyrq"]
+[ext_resource type="Texture2D" uid="uid://xd5akbe2tnhr" path="res://data/graphics/checkbox_normal.png" id="4_rcfd1"]
+[ext_resource type="Texture2D" uid="uid://cdvicumlxnk5e" path="res://data/graphics/checkbox_normal_disabled.png" id="5_3ubck"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_qejgg"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_i3jtn"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_cvllp"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_gvvk6"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_qko8h"]
+
+[resource]
+CheckBox/colors/font_color = Color(0.152895, 0.152895, 0.152895, 1)
+CheckBox/colors/font_disabled_color = Color(0.152941, 0.152941, 0.152941, 0.588235)
+CheckBox/colors/font_focus_color = Color(0.152895, 0.152895, 0.152895, 1)
+CheckBox/colors/font_hover_color = Color(0.0846899, 0.0846899, 0.0846899, 1)
+CheckBox/colors/font_pressed_color = Color(0.244776, 0.244776, 0.244776, 1)
+CheckBox/constants/check_v_offset = 0
+CheckBox/constants/h_separation = 25
+CheckBox/font_sizes/font_size = 30
+CheckBox/fonts/font = ExtResource("1_rsofn")
+CheckBox/icons/checked = ExtResource("2_15ioj")
+CheckBox/icons/checked_disabled = ExtResource("3_0iyrq")
+CheckBox/icons/unchecked = ExtResource("4_rcfd1")
+CheckBox/icons/unchecked_disabled = ExtResource("5_3ubck")
+CheckBox/styles/disabled = SubResource("StyleBoxEmpty_qejgg")
+CheckBox/styles/focus = SubResource("StyleBoxEmpty_i3jtn")
+CheckBox/styles/hover = SubResource("StyleBoxEmpty_cvllp")
+CheckBox/styles/normal = SubResource("StyleBoxEmpty_gvvk6")
+CheckBox/styles/pressed = SubResource("StyleBoxEmpty_qko8h")

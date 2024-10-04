@@ -1,0 +1,18 @@
+[gd_resource type="Environment" format=3 uid="uid://dukbynnhuby3v"]
+
+[resource]
+background_mode = 1
+background_color = Color(0.752941, 0.776471, 0.827451, 1)
+ambient_light_source = 2
+ambient_light_color = Color(0.662745, 0.694118, 0.772549, 1)
+ambient_light_energy = 1.15
+tonemap_mode = 2
+ssao_enabled = true
+ssao_radius = 0.45
+ssao_intensity = 1.0
+ssao_power = 15.0
+glow_enabled = true
+glow_levels/2 = 0.6
+glow_levels/3 = 0.6
+glow_levels/5 = 0.0
+glow_intensity = 2.0

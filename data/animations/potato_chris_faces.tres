@@ -1,0 +1,98 @@
+[gd_resource type="SpriteFrames" load_steps=8 format=3 uid="uid://77ok7w27bu57"]
+
+[ext_resource type="Texture2D" uid="uid://4ox0htdjyjh0" path="res://data/graphics/characters/potato_chris_face.png" id="1_76jm8"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_x4fe1"]
+atlas = ExtResource("1_76jm8")
+region = Rect2(1962, 856, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xj36m"]
+atlas = ExtResource("1_76jm8")
+region = Rect2(0, 856, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_c5e76"]
+atlas = ExtResource("1_76jm8")
+region = Rect2(3924, 856, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_2cm2j"]
+atlas = ExtResource("1_76jm8")
+region = Rect2(0, 0, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_38jpp"]
+atlas = ExtResource("1_76jm8")
+region = Rect2(1962, 0, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_v22nw"]
+atlas = ExtResource("1_76jm8")
+region = Rect2(3924, 0, 1962, 856)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_x4fe1")
+}],
+"loop": true,
+"name": &"Attack",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_xj36m")
+}],
+"loop": true,
+"name": &"Burning",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_c5e76")
+}],
+"loop": true,
+"name": &"Death",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2cm2j")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_38jpp")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_v22nw")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2cm2j")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2cm2j")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2cm2j")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2cm2j")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2cm2j")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2cm2j")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2cm2j")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2cm2j")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2cm2j")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2cm2j")
+}],
+"loop": true,
+"name": &"Idle",
+"speed": 5.0
+}]

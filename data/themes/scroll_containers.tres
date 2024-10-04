@@ -1,0 +1,76 @@
+[gd_resource type="Theme" load_steps=6 format=3 uid="uid://cqeaac80je3a1"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0ld4k"]
+content_margin_left = 25.0
+content_margin_top = 25.0
+content_margin_right = 0.0
+content_margin_bottom = 25.0
+bg_color = Color(0.606807, 0.581835, 0.438837, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 15
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_wov4i"]
+content_margin_left = 30.0
+content_margin_top = 0.0
+content_margin_right = 30.0
+content_margin_bottom = 0.0
+bg_color = Color(0.606807, 0.581835, 0.438837, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_wpd1d"]
+bg_color = Color(0.784314, 0.752941, 0.596078, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_d8pl0"]
+bg_color = Color(0.870588, 0.8, 0.635294, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_a4v0b"]
+content_margin_left = 15.0
+content_margin_right = 15.0
+bg_color = Color(0.497156, 0.474243, 0.343946, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_bottom_left = 15
+
+[resource]
+ScrollContainer/styles/panel = SubResource("StyleBoxFlat_0ld4k")
+VScrollBar/styles/grabber = SubResource("StyleBoxFlat_wov4i")
+VScrollBar/styles/grabber_highlight = SubResource("StyleBoxFlat_wpd1d")
+VScrollBar/styles/grabber_pressed = SubResource("StyleBoxFlat_d8pl0")
+VScrollBar/styles/scroll = SubResource("StyleBoxFlat_a4v0b")

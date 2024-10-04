@@ -1,0 +1,44 @@
+[gd_resource type="SpriteFrames" load_steps=6 format=3 uid="uid://cd8voyrks6pat"]
+
+[ext_resource type="Texture2D" uid="uid://cjq0prg0ich0d" path="res://data/graphics/characters/chucky.png" id="1_a84ha"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_fey55"]
+atlas = ExtResource("1_a84ha")
+region = Rect2(3924, 0, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_q8cpi"]
+atlas = ExtResource("1_a84ha")
+region = Rect2(0, 856, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ors7b"]
+atlas = ExtResource("1_a84ha")
+region = Rect2(0, 0, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_1v7qu"]
+atlas = ExtResource("1_a84ha")
+region = Rect2(1962, 0, 1962, 856)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_fey55")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_q8cpi")
+}],
+"loop": true,
+"name": &"Burning",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ors7b")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_1v7qu")
+}],
+"loop": true,
+"name": &"Idle",
+"speed": 5.0
+}]

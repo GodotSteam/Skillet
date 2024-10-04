@@ -1,0 +1,60 @@
+[gd_resource type="Theme" load_steps=5 format=3 uid="uid://c3xuqqsxw8snw"]
+
+[ext_resource type="FontFile" uid="uid://dfyl6vhy6e6ke" path="res://data/fonts/Huncy.otf" id="1_h1euy"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_h5c00"]
+content_margin_left = 10.0
+content_margin_top = 10.0
+content_margin_right = 10.0
+content_margin_bottom = 10.0
+bg_color = Color(0.76662, 0.76662, 0.766619, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.76662, 0.76662, 0.766619, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_5ww8o"]
+content_margin_left = 10.0
+content_margin_top = 10.0
+content_margin_right = 10.0
+content_margin_bottom = 10.0
+bg_color = Color(0.497156, 0.474243, 0.343946, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.40917, 0.389043, 0.274947, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_uy3t6"]
+content_margin_left = 10.0
+content_margin_top = 10.0
+content_margin_right = 10.0
+content_margin_bottom = 10.0
+bg_color = Color(1, 1, 1, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(1, 1, 1, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[resource]
+default_font = ExtResource("1_h1euy")
+default_font_size = 35
+Button/colors/font_hover_color = Color(0.212305, 0.212305, 0.212305, 1)
+Button/colors/font_pressed_color = Color(0.152941, 0.152941, 0.152941, 1)
+Button/styles/hover = SubResource("StyleBoxFlat_h5c00")
+Button/styles/normal = SubResource("StyleBoxFlat_5ww8o")
+Button/styles/pressed = SubResource("StyleBoxFlat_uy3t6")

@@ -1,0 +1,48 @@
+[gd_resource type="Theme" load_steps=5 format=3 uid="uid://beoec8weroyx4"]
+
+[ext_resource type="FontFile" uid="uid://dfyl6vhy6e6ke" path="res://data/fonts/Huncy.otf" id="1_3xpeu"]
+[ext_resource type="Texture2D" uid="uid://cvck17aeholt3" path="res://data/graphics/icon_spin_box.png" id="2_1alaq"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_jh746"]
+content_margin_left = 15.0
+content_margin_top = 5.0
+content_margin_right = 15.0
+content_margin_bottom = 15.0
+bg_color = Color(0.606807, 0.581835, 0.438837, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 15
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_1w2e6"]
+content_margin_left = 20.0
+content_margin_top = 10.0
+content_margin_right = 20.0
+content_margin_bottom = 10.0
+bg_color = Color(0.497156, 0.474243, 0.343946, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[resource]
+default_font = ExtResource("1_3xpeu")
+default_font_size = 30
+LineEdit/colors/font_color = Color(0.152941, 0.152941, 0.152941, 1)
+LineEdit/colors/font_uneditable_color = Color(0, 0, 0, 0.305882)
+LineEdit/colors/selection_color = Color(0.847059, 0.74902, 0.52549, 1)
+LineEdit/font_sizes/font_size = 40
+LineEdit/fonts/font = ExtResource("1_3xpeu")
+LineEdit/styles/normal = SubResource("StyleBoxFlat_jh746")
+LineEdit/styles/read_only = SubResource("StyleBoxFlat_1w2e6")
+SpinBox/icons/updown = ExtResource("2_1alaq")

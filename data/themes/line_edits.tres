@@ -1,0 +1,44 @@
+[gd_resource type="Theme" load_steps=4 format=3 uid="uid://ofshohxd88uu"]
+
+[ext_resource type="FontFile" uid="uid://dfyl6vhy6e6ke" path="res://data/fonts/Huncy.otf" id="1_yohjo"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_1gnxh"]
+content_margin_left = 20.0
+content_margin_top = 10.0
+content_margin_right = 20.0
+content_margin_bottom = 20.0
+bg_color = Color(0.606807, 0.581835, 0.438837, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 15
+border_color = Color(0.497156, 0.474243, 0.343946, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_e0f04"]
+content_margin_left = 20.0
+content_margin_top = 10.0
+content_margin_right = 20.0
+content_margin_bottom = 10.0
+bg_color = Color(0.606807, 0.581835, 0.438837, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.606807, 0.581835, 0.438837, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[resource]
+default_font = ExtResource("1_yohjo")
+default_font_size = 30
+LineEdit/colors/font_color = Color(0.152941, 0.152941, 0.152941, 1)
+LineEdit/colors/font_uneditable_color = Color(0, 0, 0, 0.305882)
+LineEdit/colors/selection_color = Color(0.847059, 0.74902, 0.52549, 1)
+LineEdit/styles/normal = SubResource("StyleBoxFlat_1gnxh")
+LineEdit/styles/read_only = SubResource("StyleBoxFlat_e0f04")

@@ -1,0 +1,15 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://6bdbwb8v38xk"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_gvups"]
+content_margin_left = 5.0
+content_margin_top = 5.0
+content_margin_right = 5.0
+content_margin_bottom = 5.0
+bg_color = Color(0.497795, 0.474342, 0.344884, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[resource]
+HSeparator/styles/separator = SubResource("StyleBoxFlat_gvups")

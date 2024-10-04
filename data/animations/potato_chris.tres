@@ -1,0 +1,63 @@
+[gd_resource type="SpriteFrames" load_steps=8 format=3 uid="uid://bvtexos0oh7mo"]
+
+[ext_resource type="Texture2D" uid="uid://cyk2iiy1jqe2a" path="res://data/graphics/characters/potato_chris_body.png" id="1_bbgwq"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_iteqp"]
+atlas = ExtResource("1_bbgwq")
+region = Rect2(3924, 0, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_pe78x"]
+atlas = ExtResource("1_bbgwq")
+region = Rect2(0, 856, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_2jdqu"]
+atlas = ExtResource("1_bbgwq")
+region = Rect2(1962, 856, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_srgn8"]
+atlas = ExtResource("1_bbgwq")
+region = Rect2(3924, 856, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_2lds5"]
+atlas = ExtResource("1_bbgwq")
+region = Rect2(0, 0, 1962, 856)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_sxg1w"]
+atlas = ExtResource("1_bbgwq")
+region = Rect2(1962, 0, 1962, 856)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_iteqp")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_pe78x")
+}],
+"loop": true,
+"name": &"Burning",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2jdqu")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_srgn8")
+}],
+"loop": true,
+"name": &"Death",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2lds5")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_sxg1w")
+}],
+"loop": true,
+"name": &"Idle",
+"speed": 5.0
+}]
