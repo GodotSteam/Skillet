@@ -76,4 +76,5 @@ You can also support the project by making pull-requests for bug fixes or new fe
 
 ## Licenses
 Skillet code (scripts and scenes) are licensed under GNU General Public License v3 (GPL-3).
+
 Skillet art assets © 2024 by GP Garcia is licensed under CC BY-NC-SA 4.0. Some contributor assets may be under a different license, please check the asset's folder. Otherwise, they fall under the same CC-BY-NC-SA 4.0 license.
