@@ -63,3 +63,17 @@ This DLC contains Godot-themed skins and cosmetics as well as other Godot-made g
 **GodotSteam Snack Pack**
 
 This DLC contains additional skins and cosmetics based on GodotSteam and other creations.
+
+---
+
+## Donate
+
+[You can support the development of Skillet through Github Sponsors.](https://github.com/sponsors/Gramps) Donations will enable continued work on the project as well as to [the parent project, GodotSteam](https://github.com/GodotSteam/GodotSteam). Those who make donations will be added to the game's credit section.
+
+You can also support the project by making pull-requests for bug fixes or new features / code. Any contributors with substantial or continued pull-requests will also be added to the game's credit section.
+
+---
+
+## Licenses
+Skillet code (scripts and scenes) are licensed under GNU General Public License v3 (GPL-3).
+Skillet art assets © 2024 by GP Garcia is licensed under CC BY-NC-SA 4.0. Some contributor assets may be under a different license, please check the asset's folder. Otherwise, they fall under the same CC-BY-NC-SA 4.0 license.
