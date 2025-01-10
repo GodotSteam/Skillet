@@ -4,7 +4,7 @@ Designed to showcase the features of GodotSteam; packing in as many of the Steam
 
 Obviously, not all of Skillet's code is available yet. Scripts and scenes will be added when they are deemed "completed enough" for public use.
 
-[You can find it here, though the store page is not quite live yet.](https://store.steampowered.com/app/3013040/Skillet/)  The game will be released in December.
+[You can find the game on Steam here.](https://store.steampowered.com/app/3013040/Skillet/)  While not out yet, you can wishlist it now; it should be released sometime in mid-2025.
 
 ---
 
